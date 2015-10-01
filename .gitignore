@@ -31,3 +31,9 @@ node_modules
 
 # Mac .DS_Store
 .DS_Store
+
+# Windows cache file
+Thumbs.db
+
+# Bower components
+/bower_components
